@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="ruby@ssh://appsdev@192.168.206.7:22/usr/bin/ruby">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/appsdev/ror/sample_app_08-04-2017" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
